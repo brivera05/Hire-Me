@@ -1,0 +1,30 @@
+h1{
+    font-family: 'Lobster Two', display;
+    color: #fad1d1;
+    background-color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+img{
+    border-radius: 50%;  
+}
+
+h2{
+    font-family: 'Playball', display;
+    color: #99ccff;
+    background-color: #ffffff;
+    text-align: center;
+    height: 30px;
+}
+
+p{
+    font-family: 'Kufam', display;
+    color: #996633;
+    display:none;
+}
+
+ul{
+    font-family: 'Kufam', display;
+    color: #996633;
+}
